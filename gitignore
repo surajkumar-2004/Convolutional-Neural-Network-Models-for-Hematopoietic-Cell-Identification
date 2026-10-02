@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Machine-learning model files
+*.h5
+*.keras
+*.ckpt
+*.pth
+*.pt
+*.onnx
+*.pb
+
+# TensorBoard
+runs/
+logs/
+tensorboard/
+
+# Local/raw datasets
+data/
+dataset/
+datasets/
+
+# Generated numerical files
+*.npy
+*.npz
+*.pkl
+*.pickle
+
+# Secrets / local configuration
+.env
+.env.*
+secrets/
