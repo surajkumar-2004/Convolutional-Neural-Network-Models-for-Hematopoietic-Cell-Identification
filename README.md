@@ -536,8 +536,8 @@ Do not assume that a code license automatically grants permission to redistribut
 
 **Your Name**
 
-- GitHub: `https://github.com/YOUR-USERNAME`
-- LinkedIn: `https://www.linkedin.com/in/YOUR-PROFILE`
+- GitHub: `https://github.com/surajkumar-2004`
+- LinkedIn: `http://www.linkedin.com/in/suraj-kumar-bala-6064032b6`
 
 ---
 
