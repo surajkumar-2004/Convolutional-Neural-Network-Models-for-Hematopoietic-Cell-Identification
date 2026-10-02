@@ -522,15 +522,7 @@ Open a pull request on GitHub with a clear description of the change.
 
 ---
 
-## License
 
-Add the license that applies to **your code** and verify that the dataset's license permits the intended use.
-
-For example, if you choose the MIT License for your original code, add an `LICENSE` file containing the MIT License text.
-
-Do not assume that a code license automatically grants permission to redistribute third-party datasets.
-
----
 
 ## Author
 
